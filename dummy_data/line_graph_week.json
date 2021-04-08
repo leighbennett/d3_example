@@ -1,0 +1,128 @@
+[
+  {
+    "symbol": "Turnover",
+    "date": "Thu",
+    "price": 0,
+    "day": "Thu"
+  },
+  {
+    "symbol": "Parts",
+    "date": "Thu",
+    "price": 0,
+    "day": "Thu"
+  },
+  {
+    "symbol": "Labour",
+    "date": "Thu",
+    "price": 0,
+    "day": "Thu"
+  },
+  {
+    "symbol": "Turnover",
+    "date": "Fri",
+    "price": 163.64,
+    "day": "Fri"
+  },
+  {
+    "symbol": "Parts",
+    "date": "Fri",
+    "price": 163.64,
+    "day": "Fri"
+  },
+  {
+    "symbol": "Labour",
+    "date": "Fri",
+    "price": 0,
+    "day": "Fri"
+  },
+  {
+    "symbol": "Turnover",
+    "date": "Sat",
+    "price": 589.28,
+    "day": "Sat"
+  },
+  {
+    "symbol": "Parts",
+    "date": "Sat",
+    "price": 17.45,
+    "day": "Sat"
+  },
+  {
+    "symbol": "Labour",
+    "date": "Sat",
+    "price": 571.83,
+    "day": "Sat"
+  },
+  {
+    "symbol": "Turnover",
+    "date": "Sun",
+    "price": 0,
+    "day": "Sun"
+  },
+  {
+    "symbol": "Parts",
+    "date": "Sun",
+    "price": 0,
+    "day": "Sun"
+  },
+  {
+    "symbol": "Labour",
+    "date": "Sun",
+    "price": 0,
+    "day": "Sun"
+  },
+  {
+    "symbol": "Turnover",
+    "date": "Mon",
+    "price": 0,
+    "day": "Mon"
+  },
+  {
+    "symbol": "Parts",
+    "date": "Mon",
+    "price": 0,
+    "day": "Mon"
+  },
+  {
+    "symbol": "Labour",
+    "date": "Mon",
+    "price": 0,
+    "day": "Mon"
+  },
+  {
+    "symbol": "Turnover",
+    "date": "Tue",
+    "price": 200,
+    "day": "Tue"
+  },
+  {
+    "symbol": "Parts",
+    "date": "Tue",
+    "price": 200,
+    "day": "Tue"
+  },
+  {
+    "symbol": "Labour",
+    "date": "Tue",
+    "price": 0,
+    "day": "Tue"
+  },
+  {
+    "symbol": "Turnover",
+    "date": "Wed",
+    "price": 86.18,
+    "day": "Wed"
+  },
+  {
+    "symbol": "Parts",
+    "date": "Wed",
+    "price": 23,
+    "day": "Wed"
+  },
+  {
+    "symbol": "Labour",
+    "date": "Wed",
+    "price": 63.18,
+    "day": "Wed"
+  }
+]

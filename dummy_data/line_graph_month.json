@@ -1,0 +1,560 @@
+[
+  {
+    "symbol": "Turnover",
+    "date": "1",
+    "price": 0,
+    "day": "Fri"
+  },
+  {
+    "symbol": "Parts",
+    "date": "1",
+    "price": 0,
+    "day": "Fri"
+  },
+  {
+    "symbol": "Labour",
+    "date": "1",
+    "price": 0,
+    "day": "Fri"
+  },
+  {
+    "symbol": "Turnover",
+    "date": "2",
+    "price": 154.95,
+    "day": "Sat"
+  },
+  {
+    "symbol": "Parts",
+    "date": "2",
+    "price": 0,
+    "day": "Sat"
+  },
+  {
+    "symbol": "Labour",
+    "date": "2",
+    "price": 154.95,
+    "day": "Sat"
+  },
+  {
+    "symbol": "Turnover",
+    "date": "3",
+    "price": 0,
+    "day": "Sun"
+  },
+  {
+    "symbol": "Parts",
+    "date": "3",
+    "price": 0,
+    "day": "Sun"
+  },
+  {
+    "symbol": "Labour",
+    "date": "3",
+    "price": 0,
+    "day": "Sun"
+  },
+  {
+    "symbol": "Turnover",
+    "date": "4",
+    "price": 0,
+    "day": "Mon"
+  },
+  {
+    "symbol": "Parts",
+    "date": "4",
+    "price": 0,
+    "day": "Mon"
+  },
+  {
+    "symbol": "Labour",
+    "date": "4",
+    "price": 0,
+    "day": "Mon"
+  },
+  {
+    "symbol": "Turnover",
+    "date": "5",
+    "price": 269.3,
+    "day": "Tue"
+  },
+  {
+    "symbol": "Parts",
+    "date": "5",
+    "price": 269.3,
+    "day": "Tue"
+  },
+  {
+    "symbol": "Labour",
+    "date": "5",
+    "price": 0,
+    "day": "Tue"
+  },
+  {
+    "symbol": "Turnover",
+    "date": "6",
+    "price": 400,
+    "day": "Wed"
+  },
+  {
+    "symbol": "Parts",
+    "date": "6",
+    "price": 400,
+    "day": "Wed"
+  },
+  {
+    "symbol": "Labour",
+    "date": "6",
+    "price": 0,
+    "day": "Wed"
+  },
+  {
+    "symbol": "Turnover",
+    "date": "7",
+    "price": 563.45,
+    "day": "Thu"
+  },
+  {
+    "symbol": "Parts",
+    "date": "7",
+    "price": 500,
+    "day": "Thu"
+  },
+  {
+    "symbol": "Labour",
+    "date": "7",
+    "price": 63.45,
+    "day": "Thu"
+  },
+  {
+    "symbol": "Turnover",
+    "date": "8",
+    "price": 281.72,
+    "day": "Fri"
+  },
+  {
+    "symbol": "Parts",
+    "date": "8",
+    "price": 281.72,
+    "day": "Fri"
+  },
+  {
+    "symbol": "Labour",
+    "date": "8",
+    "price": 0,
+    "day": "Fri"
+  },
+  {
+    "symbol": "Turnover",
+    "date": "9",
+    "price": 854.85,
+    "day": "Sat"
+  },
+  {
+    "symbol": "Parts",
+    "date": "9",
+    "price": 228.03,
+    "day": "Sat"
+  },
+  {
+    "symbol": "Labour",
+    "date": "9",
+    "price": 626.82,
+    "day": "Sat"
+  },
+  {
+    "symbol": "Turnover",
+    "date": "10",
+    "price": 0,
+    "day": "Sun"
+  },
+  {
+    "symbol": "Parts",
+    "date": "10",
+    "price": 0,
+    "day": "Sun"
+  },
+  {
+    "symbol": "Labour",
+    "date": "10",
+    "price": 0,
+    "day": "Sun"
+  },
+  {
+    "symbol": "Turnover",
+    "date": "11",
+    "price": 0,
+    "day": "Mon"
+  },
+  {
+    "symbol": "Parts",
+    "date": "11",
+    "price": 0,
+    "day": "Mon"
+  },
+  {
+    "symbol": "Labour",
+    "date": "11",
+    "price": 0,
+    "day": "Mon"
+  },
+  {
+    "symbol": "Turnover",
+    "date": "12",
+    "price": 0,
+    "day": "Tue"
+  },
+  {
+    "symbol": "Parts",
+    "date": "12",
+    "price": 0,
+    "day": "Tue"
+  },
+  {
+    "symbol": "Labour",
+    "date": "12",
+    "price": 0,
+    "day": "Tue"
+  },
+  {
+    "symbol": "Turnover",
+    "date": "13",
+    "price": 0,
+    "day": "Wed"
+  },
+  {
+    "symbol": "Parts",
+    "date": "13",
+    "price": 0,
+    "day": "Wed"
+  },
+  {
+    "symbol": "Labour",
+    "date": "13",
+    "price": 0,
+    "day": "Wed"
+  },
+  {
+    "symbol": "Turnover",
+    "date": "14",
+    "price": 0,
+    "day": "Thu"
+  },
+  {
+    "symbol": "Parts",
+    "date": "14",
+    "price": 0,
+    "day": "Thu"
+  },
+  {
+    "symbol": "Labour",
+    "date": "14",
+    "price": 0,
+    "day": "Thu"
+  },
+  {
+    "symbol": "Turnover",
+    "date": "15",
+    "price": 0,
+    "day": "Fri"
+  },
+  {
+    "symbol": "Parts",
+    "date": "15",
+    "price": 0,
+    "day": "Fri"
+  },
+  {
+    "symbol": "Labour",
+    "date": "15",
+    "price": 0,
+    "day": "Fri"
+  },
+  {
+    "symbol": "Turnover",
+    "date": "16",
+    "price": 0,
+    "day": "Sat"
+  },
+  {
+    "symbol": "Parts",
+    "date": "16",
+    "price": 0,
+    "day": "Sat"
+  },
+  {
+    "symbol": "Labour",
+    "date": "16",
+    "price": 0,
+    "day": "Sat"
+  },
+  {
+    "symbol": "Turnover",
+    "date": "17",
+    "price": 0,
+    "day": "Sun"
+  },
+  {
+    "symbol": "Parts",
+    "date": "17",
+    "price": 0,
+    "day": "Sun"
+  },
+  {
+    "symbol": "Labour",
+    "date": "17",
+    "price": 0,
+    "day": "Sun"
+  },
+  {
+    "symbol": "Turnover",
+    "date": "18",
+    "price": 303.23,
+    "day": "Mon"
+  },
+  {
+    "symbol": "Parts",
+    "date": "18",
+    "price": 262.5,
+    "day": "Mon"
+  },
+  {
+    "symbol": "Labour",
+    "date": "18",
+    "price": 40.73,
+    "day": "Mon"
+  },
+  {
+    "symbol": "Turnover",
+    "date": "19",
+    "price": 63.45,
+    "day": "Tue"
+  },
+  {
+    "symbol": "Parts",
+    "date": "19",
+    "price": 0,
+    "day": "Tue"
+  },
+  {
+    "symbol": "Labour",
+    "date": "19",
+    "price": 63.45,
+    "day": "Tue"
+  },
+  {
+    "symbol": "Turnover",
+    "date": "20",
+    "price": 136.36,
+    "day": "Wed"
+  },
+  {
+    "symbol": "Parts",
+    "date": "20",
+    "price": 136.36,
+    "day": "Wed"
+  },
+  {
+    "symbol": "Labour",
+    "date": "20",
+    "price": 0,
+    "day": "Wed"
+  },
+  {
+    "symbol": "Turnover",
+    "date": "21",
+    "price": 0,
+    "day": "Thu"
+  },
+  {
+    "symbol": "Parts",
+    "date": "21",
+    "price": 0,
+    "day": "Thu"
+  },
+  {
+    "symbol": "Labour",
+    "date": "21",
+    "price": 0,
+    "day": "Thu"
+  },
+  {
+    "symbol": "Turnover",
+    "date": "22",
+    "price": 497.5,
+    "day": "Fri"
+  },
+  {
+    "symbol": "Parts",
+    "date": "22",
+    "price": 512.93,
+    "day": "Fri"
+  },
+  {
+    "symbol": "Labour",
+    "date": "22",
+    "price": -15.43,
+    "day": "Fri"
+  },
+  {
+    "symbol": "Turnover",
+    "date": "23",
+    "price": 794.27,
+    "day": "Sat"
+  },
+  {
+    "symbol": "Parts",
+    "date": "23",
+    "price": 308.21,
+    "day": "Sat"
+  },
+  {
+    "symbol": "Labour",
+    "date": "23",
+    "price": 486.06,
+    "day": "Sat"
+  },
+  {
+    "symbol": "Turnover",
+    "date": "24",
+    "price": 0,
+    "day": "Sun"
+  },
+  {
+    "symbol": "Parts",
+    "date": "24",
+    "price": 0,
+    "day": "Sun"
+  },
+  {
+    "symbol": "Labour",
+    "date": "24",
+    "price": 0,
+    "day": "Sun"
+  },
+  {
+    "symbol": "Turnover",
+    "date": "25",
+    "price": 354.55,
+    "day": "Mon"
+  },
+  {
+    "symbol": "Parts",
+    "date": "25",
+    "price": 354.55,
+    "day": "Mon"
+  },
+  {
+    "symbol": "Labour",
+    "date": "25",
+    "price": 0,
+    "day": "Mon"
+  },
+  {
+    "symbol": "Turnover",
+    "date": "26",
+    "price": 3648.31,
+    "day": "Tue"
+  },
+  {
+    "symbol": "Parts",
+    "date": "26",
+    "price": 2401.81,
+    "day": "Tue"
+  },
+  {
+    "symbol": "Labour",
+    "date": "26",
+    "price": 1246.5,
+    "day": "Tue"
+  },
+  {
+    "symbol": "Turnover",
+    "date": "27",
+    "price": 0,
+    "day": "Wed"
+  },
+  {
+    "symbol": "Parts",
+    "date": "27",
+    "price": 0,
+    "day": "Wed"
+  },
+  {
+    "symbol": "Labour",
+    "date": "27",
+    "price": 0,
+    "day": "Wed"
+  },
+  {
+    "symbol": "Turnover",
+    "date": "28",
+    "price": 149.2,
+    "day": "Thu"
+  },
+  {
+    "symbol": "Parts",
+    "date": "28",
+    "price": 149.2,
+    "day": "Thu"
+  },
+  {
+    "symbol": "Labour",
+    "date": "28",
+    "price": 0,
+    "day": "Thu"
+  },
+  {
+    "symbol": "Turnover",
+    "date": "29",
+    "price": 0,
+    "day": "Fri"
+  },
+  {
+    "symbol": "Parts",
+    "date": "29",
+    "price": 0,
+    "day": "Fri"
+  },
+  {
+    "symbol": "Labour",
+    "date": "29",
+    "price": 0,
+    "day": "Fri"
+  },
+  {
+    "symbol": "Turnover",
+    "date": "30",
+    "price": 1763.05,
+    "day": "Sat"
+  },
+  {
+    "symbol": "Parts",
+    "date": "30",
+    "price": 1223.7,
+    "day": "Sat"
+  },
+  {
+    "symbol": "Labour",
+    "date": "30",
+    "price": 539.35,
+    "day": "Sat"
+  },
+  {
+    "symbol": "Turnover",
+    "date": "31",
+    "price": 0,
+    "day": "Sun"
+  },
+  {
+    "symbol": "Parts",
+    "date": "31",
+    "price": 0,
+    "day": "Sun"
+  },
+  {
+    "symbol": "Labour",
+    "date": "31",
+    "price": 0,
+    "day": "Sun"
+  }
+]
